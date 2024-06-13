@@ -1,5 +1,5 @@
 from utils.display import display_markdown_output
-from tools.graph_state import local_agent
+from tools.graph_workflow import local_agent
 from utils.generate_graph_png import generate_graph_png
 
 def run_agent(query):
